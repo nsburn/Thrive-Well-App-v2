@@ -71,7 +71,10 @@ FOCUS_AREAS = {
     "flexibility": ["Standing Forward Fold", "Pigeon Pose", "Seated Forward Fold", "King Pigeon", "Supine Twist"],
     "strength": ["Warrior I", "Warrior II", "Warrior III", "Boat Pose", "Crow Pose", "Bridge Pose"],
     "balance": ["Tree Pose", "Warrior III", "Half Moon Pose", "Eagle Pose"],
-    "relaxation": ["Child's Pose", "Legs Up the Wall", "Corpse Pose", "Reclined Butterfly"]
+    "relaxation": ["Child's Pose", "Legs Up the Wall", "Corpse Pose", "Reclined Butterfly"],
+    "depression": ["Child's Pose", "Legs Up the Wall", "Corpse Pose", "Reclined Butterfly"],
+    "anxiety": ["Child's Pose", "Legs Up the Wall", "Corpse Pose", "Reclined Butterfly"],
+
 }
 
 # App configuration
