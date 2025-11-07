@@ -94,7 +94,7 @@ duration = st.sidebar.slider("Practice Duration (minutes)", 10, 60, 30, 5)
 
 focus = st.sidebar.multiselect(
     "Focus Areas (optional)",
-    ["flexibility", "strength", "balance", "relaxation"],
+    ["flexibility", "strength", "balance", "relaxation", "anxiety", "depression"],
     default=[]
 )
 
